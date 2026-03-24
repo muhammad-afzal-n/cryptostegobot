@@ -59,3 +59,45 @@ To run this bot locally, follow these steps:
 ```bash
 git clone https://github.com/muhammad-afzal-n/cryptostegobot.git
 cd CryptoStegoBot
+```
+### 2. Install Dependencies
+It is recommended to use a virtual environment. Install the required packages via
+```bash
+pip install -r requirements.txt
+```
+### 3. Set Up the Bot Token
+
+1. Open Telegram and message @BotFather to create a new bot and get your API token.
+2. Set the token as an environment variable on your system:
+
+### On Windows (Command Prompt):
+```bash
+set TELEGRAM_BOT_TOKEN=your_bot_token_here
+```
+### On Linux / Mac:
+```bash
+export TELEGRAM_BOT_TOKEN="your_bot_token_here"
+```
+### 4. Run the Bot
+```bash
+python3 crypto.py
+```
+### The Terminal should output: 
+
+CryptoStegoBot Starting..
+
+
+### Disclaimer:
+
+This Bot is created for Educational and Academic Purposes.
+
+
+
+
+
+
+
+
+
+
+
