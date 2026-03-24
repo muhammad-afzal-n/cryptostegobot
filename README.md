@@ -57,5 +57,5 @@ To run this bot locally, follow these steps:
 
 ### 1. Clone the Repository
 ```bash
-git clone [https://github.com/muhammadafzaln/CryptoStegoBot.git](https://github.com/muhammadafzaln/CryptoStegoBot.git)
+git clone [https://github.com/muhammadafzaln/CryptoStegoBot.git]
 cd CryptoStegoBot
