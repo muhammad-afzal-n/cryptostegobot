@@ -6,7 +6,7 @@ Features:
 - Steganalysis (Statistical detection)
 - Hash Integrity Verification (MD5, SHA-1, SHA-256)
 
-Authors: Muhammad Afzal N, Deepu Pradeep, Ananya Dinesh, Vijay Suresh, Fayis J
+Authors: Muhammad Afzal N & Deepu Pradeep
 Guided By: Ms Aiswarya SS
 Department: Computer Science and Engineering, RIET
 """
